@@ -5,5 +5,7 @@
 The main piece of Claudia's assignment that I took and kept
 is the gif of the "Girl with a Pearl Earring." That inspired me to 
 use mixed medias centering around other famous pieces of artworks,
-especially since there was an unused Mona Lisa jpg in the folder,
-which I spliced to create the right-sided column of only Mona Lisa's eyes.
+especially since there was an unused Mona Lisa jpg in the folder.
+I also added references to both Van Gogh and Monet pieces!
+
+Click [here](https://github.com/zixuanshao/web-collage) to see Claudia's original assignment 1!
