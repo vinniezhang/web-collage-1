@@ -2,7 +2,7 @@
 
 ### Vinnie's remix of Claudia's HTML/CSS Assignment 1
 
-The main piece of Claudia's assignment that I took and kept
+The main piece of Claudia Shao's assignment that I took and kept
 is the gif of the "Girl with a Pearl Earring." That inspired me to 
 use mixed medias centering around other famous pieces of artworks,
 especially since there was an unused Mona Lisa jpg in the folder.
